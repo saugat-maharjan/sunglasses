@@ -1,0 +1,37 @@
+html,
+body {
+    font-size: 100%;
+}
+
+body {
+    color: #18191F;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Open Sans', Arial, sans-serif;
+}
+
+a {
+    outline: none;
+    color: #18191F;
+    ;
+    text-decoration: none;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+    vertical-align: top;
+}
+
+.container {
+    margin-inline: 168px;
+}
+
+h2 {
+    font-size: 48px;
+    line-height: 64px;
+}

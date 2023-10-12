@@ -1,0 +1,238 @@
+header {
+    /* background-color: aqua; */
+    padding: 16px 0;
+}
+
+.left-header {
+    /* background-color: red; */
+    float: left;
+    padding: 6px 0;
+}
+
+.left-header ul {
+    margin-top: 4px;
+}
+
+.right-header {
+    /* background-color: yellow; */
+    float: right;
+}
+
+.logo-wrapper {
+    float: left;
+    margin-right: 32px;
+}
+
+.logo-wrapper a {
+    width: 109px;
+    display: inline-block;
+}
+
+.header-navigation {
+    float: left;
+}
+
+.header-navigation li {
+
+    float: left;
+    margin-right: 32px;
+}
+
+.header-navigation li:last-child {
+    margin-right: 0;
+}
+
+.right-header li {
+    float: left;
+    margin-right: 12px;
+}
+
+.right-header li:last-child {
+    margin-right: 0;
+}
+
+.hero-banner {
+    height: 680px;
+}
+
+.main-content {
+    width: 100%;
+}
+
+
+/*----------HERO BANNER-----------*/
+
+.left-hero-banner {
+    float: left;
+}
+
+.left-hero-banner h1 {
+    margin-top: 168px;
+    width: 468px;
+    line-height: 100px;
+    font-size: 72px;
+    /* margin-right: 30px; */
+}
+
+.left-hero-banner button {
+    background-color: #8C30F5;
+    padding: 12px 32px;
+    text-align: center;
+    border: none;
+    color: white;
+    border-radius: 6px;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 32px;
+    line-height: 24px;
+}
+
+.right-hero-banner {
+    float: right;
+}
+.boy-girl-img {
+    /* height: 640px; */
+    width: 622px;
+    margin-top: 79px;
+}
+
+
+
+
+/*------------NEW ARRIVALS------------------- */
+
+.contents {
+    padding-top: 64px;
+    background-color: #B8FBFF;
+}
+
+.content-section {
+    /* background-color: aquamarine; */
+    text-align: center;
+    padding-bottom: 48px;
+}
+
+.content-section h2 {
+    font-size: 48px;
+    line-height: 64px;
+}
+
+.content-section p {
+    font-size: 18px;
+    line-height: 32px;
+}
+
+.content-list {
+    /* width: 350px; */
+    text-align: center;
+}
+
+.contents-list img {
+    width: 291px;
+    margin-bottom: 24px;
+}
+
+.contents-list h3 {
+    font-size: 24px;
+    line-height: 32px;
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+.contents-list p {
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.contents-list li {
+    width: 350px;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 64px;
+}
+
+.contents-list li:nth-child(3n) {
+    margin-right: 0px;
+}
+
+
+
+
+/*---------------SERVICES----------------------*/
+
+.service-list {
+    /* width: 350px; */
+    text-align: left;
+}
+
+.service-list img {
+    margin-top: 114px;
+    margin-bottom: 28px;
+}
+
+.van img{
+    margin-top: 114px;
+    margin-bottom: 28px;
+    width: 131px;
+}
+.guarantee img{
+    margin-top: 114px;
+    margin-bottom: 28px;
+    width: 74px;
+}
+
+.call img{
+        margin-top: 114px;
+        margin-bottom: 28px;
+        width: 70px;
+}
+
+.service-list h3 {
+    font-size: 26px;
+    line-height: 40px;
+    margin-bottom: 8px;
+}
+
+.service-list p {
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.service-list li {
+    width: 322px;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 114px;
+}
+
+.service-list li:nth-child(3n) {
+    margin-right: 0px;
+}
+
+
+/*----------------FOOTER--------------------*/
+.footer-section{
+    padding-top: 24px;
+    background-color: #F8FAFF;
+}
+
+.footer-left-section{
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 24px;
+}
+
+.footer-list li {
+    width: 20px;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 24px;
+}
+
+.footer-list li:nth-child(4) {
+    margin-right: 0px;
+}
+.footer-list{
+    float: right;
+}
